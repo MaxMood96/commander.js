@@ -48,7 +48,7 @@
     "jest": "^27.0.4",
     "standard": "^16.0.3",
     "ts-jest": "^27.0.3",
-    "tsd": "^0.17.0",
+    "tsd": "^0.30.4",
     "typescript": "^4.3.4"
   },
   "types": "typings/index.d.ts",
